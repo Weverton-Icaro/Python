@@ -1,0 +1,5 @@
+mixer.init()
+mixer.music.load('homemchora.mp3')
+mixer.music.play()
+input()
+event.wait()
