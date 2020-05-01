@@ -8,6 +8,5 @@ if tempo <=3:
 else:
     print('Tamo junto parceiro!')
 print('--FIM--')
------------------------------------------------------------
 #outra maneira de escrever seria :
 # print('Carro novo' if tempo<=3 else 'carro velho')
